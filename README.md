@@ -83,4 +83,4 @@ MIT License
 
 ## Author
 
-bluffblue
+[@bluffblue](https://github.com/dunningkrueg)
